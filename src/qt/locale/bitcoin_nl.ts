@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Project-X</source>
-        <translation>Over Project-X</translation>
+        <source>About Platzhalter</source>
+        <translation>Over Platzhalter</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Project-X&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Project-X&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;Platzhalter&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Platzhalter&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Project-X developers</source>
+Copyright © 2014 The Platzhalter developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De Project-X ontwikkelaars</translation>
+Copyright © 2014 De Platzhalter ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Project-X addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou Project-X adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your Platzhalter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou Platzhalter adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Project-X address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Project-X adres bezit.</translation>
+        <source>Sign a message to prove you own a Platzhalter address</source>
+        <translation>Teken een bericht om te bewijzen dat je een Platzhalter adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Project-X address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Project-X adres</translation>
+        <source>Verify a message to ensure it was signed with a specified Platzhalter address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Platzhalter adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>Project-X will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Project-X zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>Platzhalter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Platzhalter zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Project-X</source>
-        <translation>Toon informatie over Project-X</translation>
+        <source>Show information about Platzhalter</source>
+        <translation>Toon informatie over Platzhalter</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Project-X address</source>
-        <translation>Verstuur munten naar een Project-X adres</translation>
+        <source>Send coins to a Platzhalter address</source>
+        <translation>Verstuur munten naar een Platzhalter adres</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Project-X</source>
-        <translation>Verander configuratie opties voor Project-X</translation>
+        <source>Modify configuration options for Platzhalter</source>
+        <translation>Verander configuratie opties voor Platzhalter</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-202"/>
-        <source>Project-X</source>
-        <translation>Project-X</translation>
+        <source>Platzhalter</source>
+        <translation>Platzhalter</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Project-X</source>
-        <translation>&amp;Over Project-X</translation>
+        <source>&amp;About Platzhalter</source>
+        <translation>&amp;Over Platzhalter</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Project-X client</source>
-        <translation>Project-X client</translation>
+        <source>Platzhalter client</source>
+        <translation>Platzhalter client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Project-X network</source>
-        <translation><numerusform>%n actieve verbinding naar Project-X netwerk</numerusform><numerusform>%n actieve verbindingen naar Project-X netwerk</numerusform></translation>
+        <source>%n active connection(s) to Platzhalter network</source>
+        <translation><numerusform>%n actieve verbinding naar Platzhalter netwerk</numerusform><numerusform>%n actieve verbindingen naar Platzhalter netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-312"/>
-        <source>About Project-X card</source>
-        <translation>Over Project-X card</translation>
+        <source>About Platzhalter card</source>
+        <translation>Over Platzhalter card</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Project-X card</source>
-        <translation>Toon informatie over Project-X card</translation>
+        <source>Show information about Platzhalter card</source>
+        <translation>Toon informatie over Platzhalter card</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Project-X address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig Project-X adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Platzhalter address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig Platzhalter adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Project-X can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . Project-X kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. Platzhalter can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . Platzhalter kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Project-X address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Project-X adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Platzhalter address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Platzhalter adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Project-X-Qt</source>
-        <translation>Project-X-Qt</translation>
+        <source>Platzhalter-Qt</source>
+        <translation>Platzhalter-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Project-X after logging in to the system.</source>
-        <translation>Automatisch starten van Project-X na inloggen van het systeem.</translation>
+        <source>Automatically start Platzhalter after logging in to the system.</source>
+        <translation>Automatisch starten van Platzhalter na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Project-X on system login</source>
-        <translation>&amp;Start Project-X bij systeem aanmelding</translation>
+        <source>&amp;Start Platzhalter on system login</source>
+        <translation>&amp;Start Platzhalter bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Project-X client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De Project-X client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the Platzhalter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De Platzhalter client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Project-X network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het Project-X netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the Platzhalter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het Platzhalter netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Project-X.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na Project-X opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Platzhalter.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na Platzhalter opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Project-X addresses in the transaction list or not.</source>
-        <translation>Project-X adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show Platzhalter addresses in the transaction list or not.</source>
+        <translation>Platzhalter adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Project-X.</source>
-        <translation>Deze instelling word toegepast na een restart van Project-X.</translation>
+        <source>This setting will take effect after restarting Platzhalter.</source>
+        <translation>Deze instelling word toegepast na een restart van Platzhalter.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Project-X network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het Project-X netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Platzhalter network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het Platzhalter netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Project-X-Qt help message to get a list with possible Project-X command-line options.</source>
-        <translation>Laat het Project-X-QT help bericht zien om een lijst te krijgen met mogelijke Project-X command-regel opties.</translation>
+        <source>Show the Platzhalter-Qt help message to get a list with possible Platzhalter command-line options.</source>
+        <translation>Laat het Platzhalter-QT help bericht zien om een lijst te krijgen met mogelijke Platzhalter command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Project-X - Debug window</source>
-        <translation>Project-X - Debugscherm</translation>
+        <source>Platzhalter - Debug window</source>
+        <translation>Platzhalter - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Project-X Core</source>
-        <translation>Project-X Kern</translation>
+        <source>Platzhalter Core</source>
+        <translation>Platzhalter Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Project-X debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Project-X debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the Platzhalter debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het Platzhalter debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Project-X RPC console.</source>
-        <translation>Welkom bij de Project-X RPC console.</translation>
+        <source>Welcome to the Platzhalter RPC console.</source>
+        <translation>Welkom bij de Platzhalter RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Project-X adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een Platzhalter adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Project-X address</source>
-        <translation>WAARSCHUWING: Ongeldig Project-X adres</translation>
+        <source>WARNING: Invalid Platzhalter address</source>
+        <translation>WAARSCHUWING: Ongeldig Platzhalter adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1940,8 +1940,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Project-X adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een Platzhalter adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2001,8 +2001,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Project-X address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Project-X adres bezit.</translation>
+        <source>Sign the message to prove you own this Platzhalter address</source>
+        <translation>Teken een bericht om te bewijzen dat je een Platzhalter adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Project-X address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Project-X adres</translation>
+        <source>Verify the message to ensure it was signed with the specified Platzhalter address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Platzhalter adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Project-X adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een Platzhalter adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Project-X signature</source>
-        <translation>Voer Project-X handtekening in</translation>
+        <source>Enter Platzhalter signature</source>
+        <translation>Voer Platzhalter handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Project-X version</source>
-        <translation>Project-X versie</translation>
+        <source>Platzhalter version</source>
+        <translation>Platzhalter versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Project-Xd</source>
-        <translation>Verstuur commando naar -server of Project-Xd</translation>
+        <source>Send command to -server or Platzhalterd</source>
+        <translation>Verstuur commando naar -server of Platzhalterd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Project-X.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: Project-X.conf)</translation>
+        <source>Specify configuration file (default: Platzhalter.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: Platzhalter.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Project-Xd.pid)</source>
-        <translation>Selecteer pid bestand (standaard: Project-X.conf)</translation>
+        <source>Specify pid file (default: Platzhalterd.pid)</source>
+        <translation>Selecteer pid bestand (standaard: Platzhalter.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Project-X will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is Project-X zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Platzhalter will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is Platzhalter zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Project-Xrpc
+rpcuser=Platzhalterrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Platzhalter Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = Project-Xrpc 
+rpcuser = Platzhalterrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Project-X Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Platzhalter Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3141,13 +3141,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Project-X Alert&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Project-X is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. Project-X wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Platzhalter is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. Platzhalter wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Project-X</source>
-        <translation>Project-X</translation>
+        <source>Platzhalter</source>
+        <translation>Platzhalter</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3181,13 +3181,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Project-X Alert&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Project-X</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van Project-X</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Platzhalter</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van Platzhalter</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Project-X to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart Project-X om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Platzhalter to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart Platzhalter om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3256,8 +3256,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Project-X Alert&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Project-X is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. Project-X is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. Platzhalter is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. Platzhalter is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>

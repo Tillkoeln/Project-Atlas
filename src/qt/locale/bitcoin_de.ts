@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Project-X</source>
-        <translation>Über Project-X</translation>
+        <source>About Platzhalter</source>
+        <translation>Über Platzhalter</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Project-X&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Project-X&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;Platzhalter&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Platzhalter&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Project-X developers</source>
+Copyright © 2014 The Platzhalter developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,7 +63,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Project-X addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Platzhalter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -78,7 +78,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Project-X address</source>
+        <source>Sign a message to prove you own a Platzhalter address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -93,7 +93,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Project-X address</source>
+        <source>Verify a message to ensure it was signed with a specified Platzhalter address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -261,7 +261,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-58"/>
-        <source>Project-X will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>Platzhalter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -375,7 +375,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Project-X</source>
+        <source>Show information about Platzhalter</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -425,12 +425,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Project-X address</source>
+        <source>Send coins to a Platzhalter address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Project-X</source>
+        <source>Modify configuration options for Platzhalter</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -470,7 +470,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-202"/>
-        <source>Project-X</source>
+        <source>Platzhalter</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -480,7 +480,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Project-X</source>
+        <source>&amp;About Platzhalter</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -537,12 +537,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Project-X client</source>
+        <source>Platzhalter client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Project-X network</source>
+        <source>%n active connection(s) to Platzhalter network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -582,12 +582,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-312"/>
-        <source>About Project-X card</source>
+        <source>About Platzhalter card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Project-X card</source>
+        <source>Show information about Platzhalter card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -666,7 +666,7 @@ Adresse: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Project-X address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Platzhalter address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -726,7 +726,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Project-X can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Platzhalter can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1046,8 +1046,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Project-X address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Project-X Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Platzhalter address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Platzhalter Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1065,7 +1065,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Project-X-Qt</source>
+        <source>Platzhalter-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1138,13 +1138,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Project-X after logging in to the system.</source>
-        <translation>Automatisch Project-X starten beim Einloggen in das System.</translation>
+        <source>Automatically start Platzhalter after logging in to the system.</source>
+        <translation>Automatisch Platzhalter starten beim Einloggen in das System.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Project-X on system login</source>
-        <translation>&amp;Starte Project-X bei Systemstart</translation>
+        <source>&amp;Start Platzhalter on system login</source>
+        <translation>&amp;Starte Platzhalter bei Systemstart</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1163,8 +1163,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Project-X client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den Project-X client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
+        <source>Automatically open the Platzhalter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den Platzhalter client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1173,7 +1173,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Project-X network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Platzhalter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1248,7 +1248,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Project-X.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Platzhalter.</source>
         <translation>Die Sprache der GUI kann hier verändert werden. Die Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1263,8 +1263,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Project-X addresses in the transaction list or not.</source>
-        <translation>Project-X Adressen in der Überweisung anzeigen oder nicht.</translation>
+        <source>Whether to show Platzhalter addresses in the transaction list or not.</source>
+        <translation>Platzhalter Adressen in der Überweisung anzeigen oder nicht.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1310,7 +1310,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Project-X.</source>
+        <source>This setting will take effect after restarting Platzhalter.</source>
         <translation>Diese Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1329,8 +1329,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Project-X network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem Project-X Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Platzhalter network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem Platzhalter Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1545,7 +1545,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Project-X-Qt help message to get a list with possible Project-X command-line options.</source>
+        <source>Show the Platzhalter-Qt help message to get a list with possible Platzhalter command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1565,13 +1565,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Project-X - Debug window</source>
-        <translation>Project-X - Debug Fenster</translation>
+        <source>Platzhalter - Debug window</source>
+        <translation>Platzhalter - Debug Fenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Project-X Core</source>
-        <translation>Project-X Kern</translation>
+        <source>Platzhalter Core</source>
+        <translation>Platzhalter Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1580,7 +1580,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Project-X debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Platzhalter debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1590,7 +1590,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Project-X RPC console.</source>
+        <source>Welcome to the Platzhalter RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1749,7 +1749,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1849,7 +1849,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Project-X address</source>
+        <source>WARNING: Invalid Platzhalter address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1923,7 +1923,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1984,8 +1984,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Project-X address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser Project-X Adresse bist.</translation>
+        <source>Sign the message to prove you own this Platzhalter address</source>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser Platzhalter Adresse bist.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2016,7 +2016,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Project-X address</source>
+        <source>Verify the message to ensure it was signed with the specified Platzhalter address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2027,7 +2027,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2037,8 +2037,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Project-X signature</source>
-        <translation>Project-X Signatur eingeben</translation>
+        <source>Enter Platzhalter signature</source>
+        <translation>Platzhalter Signatur eingeben</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2608,7 +2608,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Project-X version</source>
+        <source>Platzhalter version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2618,8 +2618,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Project-Xd</source>
-        <translation>Kommando versenden an -server oder Project-Xd </translation>
+        <source>Send command to -server or Platzhalterd</source>
+        <translation>Kommando versenden an -server oder Platzhalterd </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2638,13 +2638,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Project-X.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: Project-X.conf)</translation>
+        <source>Specify configuration file (default: Platzhalter.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: Platzhalter.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Project-Xd.pid)</source>
-        <translation>PID Datei angeben (Standard: Project-X.pid)</translation>
+        <source>Specify pid file (default: Platzhalterd.pid)</source>
+        <translation>PID Datei angeben (Standard: Platzhalter.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2793,8 +2793,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Project-X will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist Project-X nicht richtig funktionieren.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Platzhalter will not work properly.</source>
+        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist Platzhalter nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2982,13 +2982,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Project-Xrpc
+rpcuser=Platzhalterrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Platzhalter Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3114,13 +3114,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Project-X is probably already running.</source>
-        <translation>Kann das Verzeichniss nicht einbinden %s. Project-X Brieftasche läuft wahrscheinlich bereits.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Platzhalter is probably already running.</source>
+        <translation>Kann das Verzeichniss nicht einbinden %s. Platzhalter Brieftasche läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Project-X</source>
-        <translation>Project-X</translation>
+        <source>Platzhalter</source>
+        <translation>Platzhalter</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3154,13 +3154,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Project-X</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der Project-X Brieftasche.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Platzhalter</source>
+        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der Platzhalter Brieftasche.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Project-X to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die Project-X Brieftasche neu zum komplettieren.</translation>
+        <source>Wallet needed to be rewritten: restart Platzhalter to complete</source>
+        <translation>Brieftasche muss neu geschrieben werden. Starte die Platzhalter Brieftasche neu zum komplettieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3229,7 +3229,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Project-X is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Platzhalter is probably already running.</source>
         <translation>Fehler beim anbinden %s auf diesem Computer. BlaclCoin Client läuft wahrscheinlich bereits.</translation>
     </message>
     <message>

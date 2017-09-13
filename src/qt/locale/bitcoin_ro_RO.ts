@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Project-X</source>
-        <translation>Despre Project-X</translation>
+        <source>About Platzhalter</source>
+        <translation>Despre Platzhalter</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Project-X&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;Project-X&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Platzhalter&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Platzhalter&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Project-X developers</source>
+Copyright © 2014 The Platzhalter developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Project-X developers</translation>
+Copyright © 2014 The Platzhalter developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Project-X addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele Project-X pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Platzhalter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Platzhalter pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Project-X address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Project-X</translation>
+        <source>Sign a message to prove you own a Platzhalter address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Platzhalter</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Project-X address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Project-X</translation>
+        <source>Verify a message to ensure it was signed with a specified Platzhalter address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Platzhalter</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>Project-X will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Project-X se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Platzhalter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Platzhalter se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Project-X</source>
-        <translation>Arată informații despre Project-X</translation>
+        <source>Show information about Platzhalter</source>
+        <translation>Arată informații despre Platzhalter</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Project-X address</source>
-        <translation>Trimite monede către o adresă Project-X</translation>
+        <source>Send coins to a Platzhalter address</source>
+        <translation>Trimite monede către o adresă Platzhalter</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Project-X</source>
-        <translation>Modifică opțiuni de configurare pentru Project-X</translation>
+        <source>Modify configuration options for Platzhalter</source>
+        <translation>Modifică opțiuni de configurare pentru Platzhalter</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-202"/>
-        <source>Project-X</source>
-        <translation>Project-X</translation>
+        <source>Platzhalter</source>
+        <translation>Platzhalter</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Project-X</source>
-        <translation>Despre Project-X</translation>
+        <source>&amp;About Platzhalter</source>
+        <translation>Despre Platzhalter</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Project-X client</source>
-        <translation>Clientul Project-X</translation>
+        <source>Platzhalter client</source>
+        <translation>Clientul Platzhalter</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Project-X network</source>
-        <translation><numerusform>%n conexiune activă la reteaua Project-X</numerusform><numerusform>%n conexiuni active la reteaua Project-X</numerusform><numerusform>%n conexiuni active la reteaua Project-X</numerusform></translation>
+        <source>%n active connection(s) to Platzhalter network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Platzhalter</numerusform><numerusform>%n conexiuni active la reteaua Platzhalter</numerusform><numerusform>%n conexiuni active la reteaua Platzhalter</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-312"/>
-        <source>About Project-X card</source>
-        <translation>Despre cardul Project-X</translation>
+        <source>About Platzhalter card</source>
+        <translation>Despre cardul Platzhalter</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Project-X card</source>
-        <translation>Arată informații despre card Project-X</translation>
+        <source>Show information about Platzhalter card</source>
+        <translation>Arată informații despre card Platzhalter</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Project-X address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Project-X invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Platzhalter address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Platzhalter invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Project-X can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. Project-X nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Platzhalter can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Platzhalter nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Project-X address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Project-X validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Platzhalter address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Platzhalter validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Project-X-Qt</source>
-        <translation>Project-X-Qt</translation>
+        <source>Platzhalter-Qt</source>
+        <translation>Platzhalter-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Project-X after logging in to the system.</source>
-        <translation>Pornește Project-X imdiat după logarea în sistem</translation>
+        <source>Automatically start Platzhalter after logging in to the system.</source>
+        <translation>Pornește Platzhalter imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Project-X on system login</source>
-        <translation>$Pornește Project-X la logarea în sistem</translation>
+        <source>&amp;Start Platzhalter on system login</source>
+        <translation>$Pornește Platzhalter la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Project-X client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul Project-X pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Platzhalter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Platzhalter pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Project-X network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua Project-X prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Platzhalter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Platzhalter prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Project-X.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Project-X.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Platzhalter.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Platzhalter.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Project-X addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese Project-X din lista de tranzacție sau nu.</translation>
+        <source>Whether to show Platzhalter addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese Platzhalter din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Project-X.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea Project-X.</translation>
+        <source>This setting will take effect after restarting Platzhalter.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Platzhalter.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Project-X network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Project-X după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Platzhalter network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Platzhalter după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Project-X-Qt help message to get a list with possible Project-X command-line options.</source>
-        <translation>Afișa mesajul de ajutor Project-X-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Project-X.</translation>
+        <source>Show the Platzhalter-Qt help message to get a list with possible Platzhalter command-line options.</source>
+        <translation>Afișa mesajul de ajutor Platzhalter-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Platzhalter.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Project-X - Debug window</source>
-        <translation>Project-X - fereastră depanare</translation>
+        <source>Platzhalter - Debug window</source>
+        <translation>Platzhalter - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Project-X Core</source>
-        <translation>Project-X Core</translation>
+        <source>Platzhalter Core</source>
+        <translation>Platzhalter Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Project-X debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare Project-X din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Platzhalter debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Platzhalter din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Project-X RPC console.</source>
-        <translation>Bine ati venit la consola Project-X RPC.</translation>
+        <source>Welcome to the Platzhalter RPC console.</source>
+        <translation>Bine ati venit la consola Platzhalter RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Project-X(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Platzhalter(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Project-X address</source>
-        <translation>Atenție: Adresă Project-X invalidă</translation>
+        <source>WARNING: Invalid Platzhalter address</source>
+        <translation>Atenție: Adresă Platzhalter invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1940,8 +1940,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Project-X(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Platzhalter(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2001,8 +2001,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Project-X address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Project-X</translation>
+        <source>Sign the message to prove you own this Platzhalter address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Platzhalter</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Project-X address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Project-X</translation>
+        <source>Verify the message to ensure it was signed with the specified Platzhalter address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Platzhalter</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Project-X(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Platzhalter(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Project-X signature</source>
-        <translation>Introduceti semnatura Project-X</translation>
+        <source>Enter Platzhalter signature</source>
+        <translation>Introduceti semnatura Platzhalter</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Project-X version</source>
-        <translation>Versiune Project-X</translation>
+        <source>Platzhalter version</source>
+        <translation>Versiune Platzhalter</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Project-Xd</source>
-        <translation>Trimite comanda catre server sau Project-Xd</translation>
+        <source>Send command to -server or Platzhalterd</source>
+        <translation>Trimite comanda catre server sau Platzhalterd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Project-X.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: Project-X.conf)</translation>
+        <source>Specify configuration file (default: Platzhalter.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: Platzhalter.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Project-Xd.pid)</source>
-        <translation>Speficica fisier pid(implicit: Project-X.pid)</translation>
+        <source>Specify pid file (default: Platzhalterd.pid)</source>
+        <translation>Speficica fisier pid(implicit: Platzhalter.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Project-X will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Project-X nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Platzhalter will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Platzhalter nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,22 +3000,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Project-Xrpc
+rpcuser=Platzhalterrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Platzhalter Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=Project-Xrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=Platzhalterrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;Platzhalter Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Project-X is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Platzhalter is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Project-X</source>
-        <translation>Project-X</translation>
+        <source>Platzhalter</source>
+        <translation>Platzhalter</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Project-X</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Project-X</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Platzhalter</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Platzhalter</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Project-X to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați Project-X pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Platzhalter to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Platzhalter pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Project-X is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Project-X ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Platzhalter is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Platzhalter ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = Project-X
+TARGET = Platzhalter
 VERSION = 0.9.1
 INCLUDEPATH += src src/json src/qt
 QT += core gui network 
@@ -470,7 +470,7 @@ macx:OBJECTIVE_SOURCES += src/qt/macdockiconhandler.mm
 macx:LIBS += -framework Foundation -framework ApplicationServices -framework AppKit
 macx:DEFINES += MAC_OSX MSG_NOSIGNAL=0
 macx:ICON = src/qt/res/icons/bitcoin.icns
-macx:TARGET = "Project-X-Qt"
+macx:TARGET = "Platzhalter-Qt"
 macx:QMAKE_CFLAGS_THREAD += -pthread
 macx:QMAKE_LFLAGS_THREAD += -pthread
 macx:QMAKE_CXXFLAGS_THREAD += -pthread

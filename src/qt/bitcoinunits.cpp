@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("NanoX");
+    case BTC: return QString("Platzhalter");
     case mBTC: return QString("mX");
-    case uBTC: return QString::fromUtf8("NanoX");
+    case uBTC: return QString::fromUtf8("Platzhalter");
     default: return QString("???");
     }
 }
@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Project-Xs");
-    case mBTC: return QString("Milli-Project-Xs (1 / 1,000)");
-    case uBTC: return QString("Nano-Project-Xs");
+    case BTC: return QString("Platzhalters");
+    case mBTC: return QString("Milli-Platzhalters (1 / 1,000)");
+    case uBTC: return QString("Nano-Platzhalters");
     default: return QString("???");
     }
 }

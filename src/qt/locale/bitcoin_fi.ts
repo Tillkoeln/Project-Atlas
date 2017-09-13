@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Project-X</source>
-        <translation>Tietoa Project-Xista</translation>
+        <source>About Platzhalter</source>
+        <translation>Tietoa Platzhalterista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Project-X&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Project-X&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Platzhalter&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Platzhalter&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Project-X developers</source>
+Copyright © 2014 The Platzhalter developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -64,8 +64,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Project-X addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Project-X-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your Platzhalter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat Platzhalter-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,8 +79,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Project-X address</source>
-        <translation>Allekirjoita viesti osoittaaksesi Project-X-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a Platzhalter address</source>
+        <translation>Allekirjoita viesti osoittaaksesi Platzhalter-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,8 +94,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Project-X address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen Project-X-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified Platzhalter address</source>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen Platzhalter-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -262,8 +262,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-58"/>
-        <source>Project-X will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Project-X-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>Platzhalter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Platzhalter-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Project-X</source>
-        <translation>Näytä tietoja Project-Xista</translation>
+        <source>Show information about Platzhalter</source>
+        <translation>Näytä tietoja Platzhalterista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -426,13 +426,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Project-X address</source>
-        <translation>Lähetä kolikkoja Project-X osoitteeseen</translation>
+        <source>Send coins to a Platzhalter address</source>
+        <translation>Lähetä kolikkoja Platzhalter osoitteeseen</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Project-X</source>
-        <translation>Mukauta Project-Xin konfigurointiasetuksia</translation>
+        <source>Modify configuration options for Platzhalter</source>
+        <translation>Mukauta Platzhalterin konfigurointiasetuksia</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -471,8 +471,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-202"/>
-        <source>Project-X</source>
-        <translation>Project-X</translation>
+        <source>Platzhalter</source>
+        <translation>Platzhalter</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -481,8 +481,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Project-X</source>
-        <translation>&amp;Tietoa Project-Xista</translation>
+        <source>&amp;About Platzhalter</source>
+        <translation>&amp;Tietoa Platzhalterista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -538,13 +538,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Project-X client</source>
-        <translation>Project-X-asiakas</translation>
+        <source>Platzhalter client</source>
+        <translation>Platzhalter-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Project-X network</source>
-        <translation><numerusform>%n aktiivinen yhteys Project-X-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Project-X-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Platzhalter network</source>
+        <translation><numerusform>%n aktiivinen yhteys Platzhalter-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Platzhalter-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -583,12 +583,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-312"/>
-        <source>About Project-X card</source>
+        <source>About Platzhalter card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Project-X card</source>
+        <source>Show information about Platzhalter card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -667,8 +667,8 @@ Osoite: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Project-X address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Project-X-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Platzhalter address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Platzhalter-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Project-X can no longer continue safely and will quit.</source>
-        <translation>Vakava virhe kohdattu. Project-X-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
+        <source>A fatal error occurred. Platzhalter can no longer continue safely and will quit.</source>
+        <translation>Vakava virhe kohdattu. Platzhalter-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Project-X address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Project-X-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Platzhalter address.</source>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Platzhalter-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Project-X-Qt</source>
-        <translation>Project-X-Qt</translation>
+        <source>Platzhalter-Qt</source>
+        <translation>Platzhalter-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Project-X after logging in to the system.</source>
-        <translation>Käynnistä Project-X-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start Platzhalter after logging in to the system.</source>
+        <translation>Käynnistä Platzhalter-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Project-X on system login</source>
-        <translation>%Käynnistä Project-X-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start Platzhalter on system login</source>
+        <translation>%Käynnistä Platzhalter-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Project-X client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Project-X-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the Platzhalter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Platzhalter-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Project-X network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä Project-X-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
+        <source>Connect to the Platzhalter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdistä Platzhalter-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Project-X.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Project-X-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Platzhalter.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Platzhalter-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1278,8 +1278,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Project-X addresses in the transaction list or not.</source>
-        <translation>Näytä tai piilota Project-X-osoitteet rahansiirtolistassa.</translation>
+        <source>Whether to show Platzhalter addresses in the transaction list or not.</source>
+        <translation>Näytä tai piilota Platzhalter-osoitteet rahansiirtolistassa.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Project-X.</source>
-        <translation>Tämä asetus tulee voimaan vasta Project-X-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting Platzhalter.</source>
+        <translation>Tämä asetus tulee voimaan vasta Platzhalter-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Project-X network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Project-X-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Platzhalter network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Platzhalter-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Project-X-Qt help message to get a list with possible Project-X command-line options.</source>
-        <translation>Näytä Project-X-Qt:n avustusohje saadaksesi listan käytettävistä Project-Xin komentokehotteen määritteistä.</translation>
+        <source>Show the Platzhalter-Qt help message to get a list with possible Platzhalter command-line options.</source>
+        <translation>Näytä Platzhalter-Qt:n avustusohje saadaksesi listan käytettävistä Platzhalterin komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Project-X - Debug window</source>
-        <translation>Project-X - Debug-ikkuna</translation>
+        <source>Platzhalter - Debug window</source>
+        <translation>Platzhalter - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Project-X Core</source>
-        <translation>Project-Xin ydin</translation>
+        <source>Platzhalter Core</source>
+        <translation>Platzhalterin ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Project-X debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Project-X-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the Platzhalter debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Platzhalter-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Project-X RPC console.</source>
-        <translation>Tervetuloa Project-Xin RPC-konsoliin.</translation>
+        <source>Welcome to the Platzhalter RPC console.</source>
+        <translation>Tervetuloa Platzhalterin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1764,8 +1764,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä Project-X-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä Platzhalter-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1864,8 +1864,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Project-X address</source>
-        <translation>VAROITUS: Epäkelpo Project-X-osoite</translation>
+        <source>WARNING: Invalid Platzhalter address</source>
+        <translation>VAROITUS: Epäkelpo Platzhalter-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1938,8 +1938,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä Project-X-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä Platzhalter-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1999,8 +1999,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Project-X address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Project-X-osoitteen</translation>
+        <source>Sign the message to prove you own this Platzhalter address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Platzhalter-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2031,8 +2031,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Project-X address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Project-X-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Platzhalter address</source>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Platzhalter-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2042,8 +2042,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Project-X address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä Project-X-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Platzhalter address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä Platzhalter-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Project-X signature</source>
-        <translation>Syötä Project-X-allekirjoitus</translation>
+        <source>Enter Platzhalter signature</source>
+        <translation>Syötä Platzhalter-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Project-X version</source>
-        <translation>Project-Xin versio</translation>
+        <source>Platzhalter version</source>
+        <translation>Platzhalterin versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2633,8 +2633,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Project-Xd</source>
-        <translation>Syötä komento kohteeseen -server tai Project-Xd</translation>
+        <source>Send command to -server or Platzhalterd</source>
+        <translation>Syötä komento kohteeseen -server tai Platzhalterd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2653,13 +2653,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Project-X.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: Project-X.conf)</translation>
+        <source>Specify configuration file (default: Platzhalter.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: Platzhalter.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Project-Xd.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: Project-X.pid)</translation>
+        <source>Specify pid file (default: Platzhalterd.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: Platzhalter.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2808,8 +2808,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Project-X will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Project-X ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Platzhalter will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Platzhalter ei toimi oikein.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,23 +2998,23 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Project-Xrpc
+rpcuser=Platzhalterrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Platzhalter Alert&quot; admin@foo.com
 </source>
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
 On suositeltavaa, että käytät seuraavaa arvottua salasanaa:
-rpcuser=Project-Xrpc
+rpcuser=Platzhalterrpc
 rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa)
 Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
 Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
-On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;Project-X Alert&quot; admin@foo.com
+On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;Platzhalter Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3139,13 +3139,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Project-X is probably already running.</source>
-        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. Project-X-asiakasohjelma on ehkä jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Platzhalter is probably already running.</source>
+        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. Platzhalter-asiakasohjelma on ehkä jo käynnissä.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Project-X</source>
-        <translation>Project-X</translation>
+        <source>Platzhalter</source>
+        <translation>Platzhalter</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3179,13 +3179,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Project-X</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Project-X-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Platzhalter</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Platzhalter-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Project-X to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Project-X-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart Platzhalter to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Platzhalter-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3254,8 +3254,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Project-X is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. Project-X-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. Platzhalter is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. Platzhalter-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-97"/>

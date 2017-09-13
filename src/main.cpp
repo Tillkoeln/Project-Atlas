@@ -41,7 +41,7 @@ CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 16);
 static CBigNum bnProofOfStakeLimitTestNet(~uint256(0) >> 16);
 
-unsigned int nWorkTargetSpacing = 5 * 60; // 
+unsigned int nWorkTargetSpacing = 1 * 60; // 
 unsigned int nStakeTargetSpacing = 10; // 
 unsigned int nStakeMinAge = 1; //
 unsigned int nStakeMaxAge = 10 * 24 * 60 * 60; //
@@ -70,7 +70,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Project-X Signed Message:\n";
+const string strMessageMagic = "Platzhalter Signed Message:\n";
 
 // Settings
 int64_t nTransactionFee = MIN_TX_FEE;
@@ -973,11 +973,11 @@ int64_t GetProofOfWorkReward(int64_t nFees)
        
    if (pindexBest->nHeight <= 1)
       {
-        int64_t nSubsidy = 0.50003250 * COIN;
+        int64_t nSubsidy = 1.00006500 * COIN;
         return nSubsidy + nFees;
       }
       
-    else if (pindexBest->nHeight <= 1440)
+    else if (pindexBest->nHeight <= 10080)
       {
         int64_t nSubsidy = 0 * COIN;
         return nSubsidy + nFees;
@@ -998,7 +998,7 @@ int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 
     if(pindexBest->nHeight > 1)
     {
-        nSubsidy = 0.00000100 * COIN; 
+        nSubsidy = 100 * COIN; 
 		return nSubsidy + nFees; 
     }	
 		
@@ -2437,7 +2437,7 @@ bool CheckDiskSpace(uint64_t nAdditionalBytes)
         string strMessage = _("Warning: Disk space is low!");
         strMiscWarning = strMessage;
         printf("*** %s\n", strMessage.c_str());
-        uiInterface.ThreadSafeMessageBox(strMessage, "Project-X", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
+        uiInterface.ThreadSafeMessageBox(strMessage, "Platzhalter", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
         StartShutdown();
         return false;
     }
