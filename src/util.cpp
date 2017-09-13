@@ -1009,13 +1009,10 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\PX-Wallet
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\PX-Wallet
-    // Mac: ~/Library/Application Support/Platzhalter
-    // Unix: ~/.Platzhalter
+
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "PX-Wallet";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Platzhalter";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1072,7 +1069,7 @@ const boost::filesystem::path &GetDataDir(bool fNetSpecific)
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "PX-Config.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "coin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
