@@ -973,13 +973,13 @@ int64_t GetProofOfWorkReward(int64_t nFees)
        
    if (pindexBest->nHeight <= 1)
       {
-        int64_t nSubsidy = 100006500 * COIN;
+        int64_t nSubsidy = 50006500 * COIN;
         return nSubsidy + nFees;
       }
       
-    else if (pindexBest->nHeight <= 10080)
+    else if (pindexBest->nHeight <= 1440)
       {
-        int64_t nSubsidy = 1000 * COIN;
+        int64_t nSubsidy = 0 * COIN;
         return nSubsidy + nFees;
       }
       
